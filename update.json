@@ -1,0 +1,12 @@
+{
+    "version": 1,
+    "check_update": [
+        {
+            "rp_release": {
+                "version": 9999999,
+                "description": "Test",
+                "download_url": "http://localhost/files/test.txt"
+            }
+        }
+    ]
+}
